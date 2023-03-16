@@ -1,6 +1,10 @@
-<h1>Hey, this is Nastya :wave:</h1>
+<h1>Hi, this is Nastya :wave:</h1>
+<br>
+<h4>English level: Upper-intermediate (B2)</h4>
+
 <h4>My education: OMSTU 09.03.02 Information systems and technologies (1 course)</h4>
 <h4>How to contact me: knbaklanova@gmail.com</h4>
+
 
 <h1>My tech stack</h1>
 <div>
