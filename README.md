@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1>Hello👋</h1>
 
-<!--
-**nastyabak/nastyabak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>I'm junior frontend-developer</h4>
+<h4>My education: OMSTU 09.03.02 Information systems and technologies (1 course)</h4>
+<h4>How to contact me: knbaklanova@gmail.com</h4>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>My tech stack</h1>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/e1e71358efd844876dfc3217aa6429957ad92bc8/icons/cplusplus/cplusplus-plain.svg" title="CSS3" alt="CSS" width="45" height="45"/>&nbsp;
+</div>
