@@ -4,7 +4,7 @@
 
 <h4>My education: OMSTU 09.03.02 Information systems and technologies (1 course)</h4>
 <h4>How to contact me: knbaklanova@gmail.com</h4>
-
+<br>
 
 <h1>My tech stack</h1>
 <div>
